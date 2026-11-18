@@ -1,11 +1,12 @@
+# Lobby Leilão
 
-  # Lobby Leilão Platform Development
+Plataforma para achar produtos de leilão sem abrir edital em PDF. A pessoa busca por produto, categoria ou cidade, filtra o catálogo, abre o detalhe de um item e importa editais para transformar o documento em uma lista navegável.
 
-  This is a code bundle for Lobby Leilão Platform Development. The original project is available at https://www.figma.com/design/UIqrnT3TXu8JHhtIXkdWEo/Lobby-Leil%C3%A3o-Platform-Development.
+Interface em React, TypeScript e Vite, desenhada no Figma. Os produtos de exemplo estão em dados locais e o importador lê PDF no navegador. Versão publicada: https://lobby-leilao-beta.vercel.app
 
-  ## Running the code
+## Como rodar
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm install
+npm run dev
+```
